@@ -1,0 +1,88 @@
+# Validation Report - beginner-easy-houseplants
+
+Generated: 2026-06-04T11:35:42.754344
+
+## Passed
+
+- ✓ Required file exists: privacy.html
+- ✓ Required file exists: cookie-policy.html
+- ✓ Required file exists: terms.html
+- ✓ Required file exists: ad-policy.html
+- ✓ Required file exists: contact.html
+- ✓ Required file exists: about.html
+- ✓ Required file exists: dmca.html
+- ✓ Required file exists: accessibility.html
+- ✓ Suggested file exists: data-request.html
+- ✓ Suggested file exists: do-not-sell.html
+- ✓ Suggested file exists: third-party-disclosure.html
+- ✓ Suggested file exists: disclaimer.html
+- ✓ Suggested file exists: external-link-policy.html
+- ✓ Suggested file exists: content-policy.html
+- ✓ Suggested file exists: security-policy.html
+- ✓ Suggested file exists: children-privacy.html
+- ✓ Suggested file exists: refund-policy.html
+- ✓ Suggested file exists: faq.html
+- ✓ Suggested file exists: press-kit.html
+- ✓ Suggested file exists: feedback.html
+- ✓ Suggested file exists: code-of-conduct.html
+- ✓ Article word count OK: The Ultimate Guide to Beginner Beginner Easy Houseplants
+- ✓ Article word count OK: Beginner Beginner Easy Houseplants: Everything You Need to Know
+- ✓ Article word count OK: Understanding Beginner Beginner Easy Houseplants
+- ✓ Article word count OK: Beginner Beginner Easy Houseplants Tips and Best Practices
+- ✓ Article word count OK: The History of Beginner Beginner Easy Houseplants
+- ✓ Article word count OK: Beginner Beginner Easy Houseplants in 2026: Current Trends
+- ✓ Article word count OK: Future of Beginner Beginner Easy Houseplants
+- ✓ Article word count OK: Common Mistakes in Beginner Beginner Easy Houseplants
+- ✓ Article word count OK: Beginner Beginner Easy Houseplants for Beginners
+- ✓ Article word count OK: Advanced Beginner Beginner Easy Houseplants Techniques
+- ✓ Article word count OK: The Ultimate Guide to Advanced Beginner Easy Houseplants
+- ✓ Article word count OK: Advanced Beginner Easy Houseplants: Everything You Need to Know
+- ✓ Article word count OK: Understanding Advanced Beginner Easy Houseplants
+- ✓ Article word count OK: Advanced Beginner Easy Houseplants Tips and Best Practices
+- ✓ Article word count OK: The History of Advanced Beginner Easy Houseplants
+- ✓ Article word count OK: Advanced Beginner Easy Houseplants in 2026: Current Trends
+- ✓ Article word count OK: Future of Advanced Beginner Easy Houseplants
+- ✓ Article word count OK: Common Mistakes in Advanced Beginner Easy Houseplants
+- ✓ Article word count OK: Advanced Beginner Easy Houseplants for Beginners
+- ✓ Article word count OK: Advanced Advanced Beginner Easy Houseplants Techniques
+- ✓ Article word count OK: The Ultimate Guide to Beginner Easy Houseplants Tips
+- ✓ Article word count OK: Beginner Easy Houseplants Tips: Everything You Need to Know
+- ✓ Article word count OK: Understanding Beginner Easy Houseplants Tips
+- ✓ Article word count OK: Beginner Easy Houseplants Tips Tips and Best Practices
+- ✓ Article word count OK: The History of Beginner Easy Houseplants Tips
+- ✓ Article word count OK: Beginner Easy Houseplants Tips in 2026: Current Trends
+- ✓ Article word count OK: Future of Beginner Easy Houseplants Tips
+- ✓ Article word count OK: Common Mistakes in Beginner Easy Houseplants Tips
+- ✓ Article word count OK: Beginner Easy Houseplants Tips for Beginners
+- ✓ Article word count OK: Advanced Beginner Easy Houseplants Tips Techniques
+- ✓ Article word count OK: The Ultimate Guide to Beginner Easy Houseplants History
+- ✓ Article word count OK: Beginner Easy Houseplants History: Everything You Need to Know
+- ✓ Article word count OK: Understanding Beginner Easy Houseplants History
+- ✓ Article word count OK: Beginner Easy Houseplants History Tips and Best Practices
+- ✓ Article word count OK: The History of Beginner Easy Houseplants History
+- ✓ Article word count OK: Beginner Easy Houseplants History in 2026: Current Trends
+- ✓ Article word count OK: Future of Beginner Easy Houseplants History
+- ✓ Article word count OK: Common Mistakes in Beginner Easy Houseplants History
+- ✓ Article word count OK: Beginner Easy Houseplants History for Beginners
+- ✓ Article word count OK: Advanced Beginner Easy Houseplants History Techniques
+- ✓ Article word count OK: The Ultimate Guide to Trending Beginner Easy Houseplants
+- ✓ Article word count OK: Trending Beginner Easy Houseplants: Everything You Need to Know
+- ✓ Article word count OK: Understanding Trending Beginner Easy Houseplants
+- ✓ Article word count OK: Trending Beginner Easy Houseplants Tips and Best Practices
+- ✓ Article word count OK: The History of Trending Beginner Easy Houseplants
+- ✓ Article word count OK: Trending Beginner Easy Houseplants in 2026: Current Trends
+- ✓ Article word count OK: Future of Trending Beginner Easy Houseplants
+- ✓ Article word count OK: Common Mistakes in Trending Beginner Easy Houseplants
+- ✓ Article word count OK: Trending Beginner Easy Houseplants for Beginners
+- ✓ Article word count OK: Advanced Trending Beginner Easy Houseplants Techniques
+- ✓ Article word count OK: The Ultimate Guide to Beginner Easy Houseplants Tutorials
+- ✓ Article word count OK: Beginner Easy Houseplants Tutorials: Everything You Need to Know
+- ✓ Article word count OK: Understanding Beginner Easy Houseplants Tutorials
+- ✓ Article word count OK: Beginner Easy Houseplants Tutorials Tips and Best Practices
+- ✓ Article word count OK: The History of Beginner Easy Houseplants Tutorials
+- ✓ Article word count OK: Beginner Easy Houseplants Tutorials in 2026: Current Trends
+- ✓ Article word count OK: Future of Beginner Easy Houseplants Tutorials
+- ✓ Article word count OK: Common Mistakes in Beginner Easy Houseplants Tutorials
+- ✓ Article word count OK: Beginner Easy Houseplants Tutorials for Beginners
+- ✓ Article word count OK: Advanced Beginner Easy Houseplants Tutorials Techniques
+- ✓ Ad configuration validated

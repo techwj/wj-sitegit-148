@@ -1,0 +1,59 @@
+{
+  "siteId": "beginner-easy-houseplants",
+  "generatedAt": "2026-06-04T11:35:42.754667",
+  "categories": [
+    "beginner-beginner-easy-houseplants",
+    "advanced-beginner-easy-houseplants",
+    "tips-beginner-easy-houseplants",
+    "history-beginner-easy-houseplants",
+    "trending-beginner-easy-houseplants",
+    "tutorials-beginner-easy-houseplants"
+  ],
+  "categoryData": [
+    {
+      "category_slug": "beginner-beginner-easy-houseplants",
+      "category_name": "Beginner Beginner Easy Houseplants"
+    },
+    {
+      "category_slug": "advanced-beginner-easy-houseplants",
+      "category_name": "Advanced Beginner Easy Houseplants"
+    },
+    {
+      "category_slug": "tips-beginner-easy-houseplants",
+      "category_name": "Beginner Easy Houseplants Tips"
+    },
+    {
+      "category_slug": "history-beginner-easy-houseplants",
+      "category_name": "Beginner Easy Houseplants History"
+    },
+    {
+      "category_slug": "trending-beginner-easy-houseplants",
+      "category_name": "Trending Beginner Easy Houseplants"
+    },
+    {
+      "category_slug": "tutorials-beginner-easy-houseplants",
+      "category_name": "Beginner Easy Houseplants Tutorials"
+    }
+  ],
+  "articleCount": 60,
+  "design": {
+    "site_id": "beginner-easy-houseplants",
+    "color_scheme": {
+      "name": "Purple Dream",
+      "primary": "#6b21a8",
+      "secondary": "#a855f7",
+      "accent": "#d8b4fe",
+      "background": "#faf5ff",
+      "text": "#581c87",
+      "light": "#f3e8ff"
+    },
+    "font": {
+      "family": "'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif",
+      "heading": "'Segoe UI'",
+      "body": "Roboto"
+    },
+    "layout": "sidebar",
+    "site_title": "Beginner Easy Houseplants Central",
+    "articles_per_row": 1
+  }
+}
